@@ -6,12 +6,12 @@ The website is built using HTML, CSS, and JavaScript with a focus on responsive 
 
 
 ## 👥 Team Members
-- Ahmedalqusai 
-- Magd alhidari
-- Ayman alsmawy
-- Raslan hadi
-- Ndal almoshki
-- qusai alrai
+- Ahmed Alqusai 
+- Magd Alhidari
+- Ayman Alsmawy
+- Raslan Hadi
+- Nidal Almoshki
+- Qusai Alrai
 
 
 ## 🚀 Features
