@@ -32,7 +32,16 @@ The website is built using HTML, CSS, and JavaScript with a focus on responsive 
 ---
 
 ## 📷 Screenshots
+## 📷 Screenshots
 
+### Photo 1
+![Photo 1](photo 1.jpg)
+
+### Photo 2
+![Photo 2](photo 2.jpg)
+
+### Photo 3
+![Photo 3](photo 3.jpg)
 
 
 ---
