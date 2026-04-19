@@ -44,3 +44,5 @@ The website is built using HTML, CSS, and JavaScript with a focus on responsive 
 ## 🌐 Live Demo
 
 team-portfolio-pro.vercel.app
+
+ahmedal-qusai.github.io/portfolio-project/
